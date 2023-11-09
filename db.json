@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "email": "gopika",
+      "pswd": "gop123",
+      "id": 1
+    },
+    {
+      "email": "achu",
+      "pswd": "achu",
+      "id": 2
+    },
+    {
+      "email": "achu",
+      "pswd": "achu",
+      "id": 3
+    },
+    {
+      "email": "achu",
+      "pswd": "achu",
+      "id": 4
+    },
+    {
+      "email": "achu",
+      "pswd": "achu",
+      "id": 5
+    },
+    {
+      "email": "ammuu",
+      "pswd": "ammu123",
+      "id": 6
+    },
+    {
+      "email": "qwe",
+      "pswd": "123",
+      "id": 7
+    }
+  ]
+}
